@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";a:7:{s:7:"connect";i:1;s:15:"current_version";s:7:"3.2.1.5";s:20:"current_creationDate";s:15:"04 October 2017";s:7:"version";s:7:"3.2.1.7";s:8:"released";s:10:"2017-10-20";s:7:"enabled";i:1;s:7:"current";i:-1;}s:6:"output";s:0:"";}
